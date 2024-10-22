@@ -1,0 +1,42 @@
+img{
+    width: 700px;
+    height: auto;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.letter-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: first baseline;
+    color: white;
+    width: 300px;
+    height: 600px;
+    margin: 10px;
+    
+
+}
+.letters{
+    width: 150px;
+    height: 30px;
+    background-color: white;
+    color: green;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 17px;
+    margin-top: 20px;
+}
+input{
+    width: 200px;
+    border-radius: 10px;
+    border-style: none;
+    height: 30px;
+    margin-top: 10px;
+}
+h1{
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
